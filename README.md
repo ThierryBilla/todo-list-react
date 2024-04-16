@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5znMqodh)
 # Your first front-end framework: React
 
@@ -80,3 +81,6 @@ Have you completed the exercise for the day and don't know what to do with the r
 Ready? Start [here](0.The-Basics/README.md)!
 
 ![](images/todo.gif)
+=======
+# todo-list-react
+>>>>>>> origin/main
